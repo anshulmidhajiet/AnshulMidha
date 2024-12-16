@@ -1,2 +1,3 @@
-# AnshulMidha 
-# Automation Solution UI and API projects
+# AnshulMidha
+# TestAutomation contains UI Automation Code
+# TestAutomationAPI contains API Automation code
